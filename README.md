@@ -55,6 +55,8 @@ flowchart LR
 
 **过程证据：** [早期研究](media/dating/research-early-1.webp) · [故事与场景资料](media/dating/) · [机制图表组件](site-source/components/FestivalMechanismDiagram.astro) · [交互与导航](site-source/scripts/dating-festival.ts)
 
+**指令控制：** 先用完整任务说明组织案例结构与视觉基准，再以精准短指令调整空间顺序、选择反馈与地图比例，通过实际画面与原作对照验收。
+
 [阅读完整的项目工作流](工作流.md) · [我的 AI 设计方法](https://github.com/Zhiyuan-Xiong/xiongzhiyuan-portfolio/blob/main/docs/AI设计工作流.md)
 
 ## 仓库内容
