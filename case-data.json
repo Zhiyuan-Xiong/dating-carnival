@@ -1,0 +1,414 @@
+{
+  "slug": "dating-carnival",
+  "title": {
+    "zh": "相亲营销嘉年华",
+    "en": "Blind Dating Market Festival"
+  },
+  "subtitle": {
+    "zh": "把相亲市场的规则变成可探索的叙事空间",
+    "en": "Turning the rules of a dating market into an explorable narrative"
+  },
+  "description": {
+    "zh": "通过六个相连的场景，探索信息包装、条件匹配与社会评价如何影响亲密关系。",
+    "en": "Six connected scenes explore how self-presentation, conditional matching, and social judgement shape intimate relationships."
+  },
+  "categories": [
+    "installation",
+    "3d",
+    "ux"
+  ],
+  "status": "published",
+  "kind": {
+    "zh": "交互叙事／三维空间",
+    "en": "Interactive narrative / 3D environments"
+  },
+  "year": "2024",
+  "featured": true,
+  "background": "dating-gaze-finished",
+  "cover": "dating-cover",
+  "coverAlt": {
+    "zh": "红色机械嘉年华场景，装置与游乐设施组成相亲市场。",
+    "en": "A red mechanical carnival where installations and rides form a dating market."
+  },
+  "role": {
+    "zh": "交互叙事、场景与视觉设计",
+    "en": "Interactive narrative, environment, and visual design"
+  },
+  "stage": {
+    "zh": "概念设计、场景可视化与概念影像",
+    "en": "Concept design, environment visualisation, and concept film"
+  },
+  "deliverables": {
+    "zh": "研究梳理、六个场景、选择与反馈机制、概念视觉",
+    "en": "Research synthesis, six scenes, choice and feedback mechanisms, and concept visuals"
+  },
+  "overview": {
+    "zh": "《相亲嘉年华》围绕相亲过程中“信息如何被展示、筛选与判断”展开。通过对现实相亲行为与沟通方式的观察，将身份包装、条件匹配、信任验证与外部评价转化为可操作的游戏机制。项目以六个连续场景构建完整体验流程，通过用户选择、系统反馈与多结果路径，使隐性的婚恋营销、信息差与关系判断过程转化为可感知、可验证、可反思的交互体验。",
+    "en": "Blind Dating Market Festival examines how information is presented, filtered and judged during matchmaking. Observations of real-world introductions and conversations are translated into game mechanisms for persona packaging, matching, trust and outside evaluation. Six connected spaces trace a participant’s journey, making the hidden processes of self-promotion and relationship judgement tangible through choices, feedback and multiple possible outcomes."
+  },
+  "sections": [
+    {
+      "id": "research",
+      "title": {
+        "zh": "研究背景",
+        "en": "Background"
+      },
+      "paragraphs": [
+        {
+          "zh": "相亲角、媒人介绍、婚恋 APP、社交平台及相亲节目构成线上与线下的相亲入口。不同渠道反复面对同一个问题：在有限时间内展示自己，并快速判断对方。",
+          "en": "Matchmaking markets, introductions, dating apps, social platforms and television shows form online and offline entry points. Across these settings, participants face the same task: present themselves and assess someone else within a limited time."
+        },
+        {
+          "zh": "为了提高筛选效率，复杂的个人特征被转化为可比较的择偶条件：外貌魅力、经济实力、事业潜力、家庭条件、情感经历与性格契合。条件展示、比较、筛选与匹配逐渐成为关系判断的路径。",
+          "en": "To make screening more efficient, complex personal characteristics become comparable criteria: appearance, finances, career potential, family background, relationship history and personality. Display, comparison, filtering and matching shape the way people evaluate a relationship."
+        },
+        {
+          "zh": "项目选取相亲角、婚恋 APP、媒人介绍三类场景，整理个人介绍与交流话术。人们通过突出优势、弱化风险与优化表达，塑造更符合择偶期待的形象。项目由此关注信息表达与真实身份之间的距离。",
+          "en": "The project examines introductions and conversational language in matchmaking markets, dating apps and introductions through intermediaries. Highlighting strengths, downplaying risk and polishing language create a persona that meets expectations, raising questions about the distance between a presentation and a person."
+        }
+      ]
+    },
+    {
+      "id": "mechanisms",
+      "title": {
+        "zh": "设计推演",
+        "en": "Development"
+      },
+      "points": [
+        {
+          "title": {
+            "zh": "属性系统",
+            "en": "Attribute system"
+          },
+          "text": {
+            "zh": "将择偶信息转化为属性与标签。",
+            "en": "Translate matchmaking criteria into attributes and tags."
+          }
+        },
+        {
+          "title": {
+            "zh": "包装机制",
+            "en": "Persona packaging"
+          },
+          "text": {
+            "zh": "把自我展示转化为策略选择。",
+            "en": "Make self-presentation a strategic choice."
+          }
+        },
+        {
+          "title": {
+            "zh": "匹配机制",
+            "en": "Matching mechanism"
+          },
+          "text": {
+            "zh": "进行多维筛选与算法配对。",
+            "en": "Filter across multiple dimensions and pair profiles."
+          }
+        },
+        {
+          "title": {
+            "zh": "信任验证",
+            "en": "Trust verification"
+          },
+          "text": {
+            "zh": "通过互动验证信息真实性。",
+            "en": "Verify the credibility of information through interaction."
+          }
+        },
+        {
+          "title": {
+            "zh": "压力机制",
+            "en": "Outside pressure"
+          },
+          "text": {
+            "zh": "让家庭与社会评价持续介入。",
+            "en": "Allow family and social judgement to intervene."
+          }
+        },
+        {
+          "title": {
+            "zh": "多结局反馈",
+            "en": "Multiple outcomes"
+          },
+          "text": {
+            "zh": "让不同选择导向多种关系结果。",
+            "en": "Let different choices lead to different relationship outcomes."
+          }
+        }
+      ]
+    },
+    {
+      "id": "invitation-hall",
+      "title": {
+        "zh": "邀请大厅",
+        "en": "Invitation Hall"
+      },
+      "paragraphs": [
+        {
+          "zh": "相亲营销游戏从候选人走上各自的展示台开始。参与者被作为“展品”呈现，身份、条件与匹配状态进入公众视野；对他人的判断也从观看这些信息开始。",
+          "en": "The marketing game begins as candidates step onto their presentation stages. Identity, conditions and matching status become public exhibits, while participants begin assessing others through what is shown."
+        }
+      ],
+      "points": [
+        {
+          "title": {
+            "zh": "展示台",
+            "en": "Presentation stage"
+          },
+          "text": {
+            "zh": "实时公开所有候选人的身份信息与匹配状态。",
+            "en": "Publicly displays candidates’ identities and matching status."
+          }
+        },
+        {
+          "title": {
+            "zh": "监察眼",
+            "en": "Monitoring eye"
+          },
+          "text": {
+            "zh": "用于搜寻相亲对象的眼形监视装置。",
+            "en": "An eye-shaped surveillance device searches for potential dates."
+          }
+        },
+        {
+          "title": {
+            "zh": "爱情卡牌",
+            "en": "Love cards"
+          },
+          "text": {
+            "zh": "每张卡片背后，都藏着一位潜在候选人。",
+            "en": "A potential candidate lies behind every card."
+          }
+        },
+        {
+          "title": {
+            "zh": "爱情电视",
+            "en": "Love television"
+          },
+          "text": {
+            "zh": "循环播放最受关注的匹配案例与成功配对记录。",
+            "en": "Loops popular matching cases and successful pairings."
+          }
+        }
+      ]
+    },
+    {
+      "id": "love-factory",
+      "title": {
+        "zh": "爱情工厂",
+        "en": "Love Factory"
+      },
+      "paragraphs": [
+        {
+          "zh": "爱情工厂负责生产“理想伴侣”。参与者在邀请大厅完成身份展示后，被送入工厂流水线。外貌、职业、收入、家庭背景与情感需求被转化为标准化数据标签，组装成完整的婚恋档案。信息汇入中央数据库，由匹配系统筛选、计算与配对。",
+          "en": "The Love Factory produces the “ideal partner”. After the initial presentation, participants enter an assembly line that turns appearance, occupation, income, family background and emotional needs into standardised tags. These become a dating profile recorded in a central database for screening and matching."
+        }
+      ],
+      "points": [
+        {
+          "title": {
+            "zh": "爱情熔炉",
+            "en": "Furnace of love"
+          },
+          "text": {
+            "zh": "参与者进入爱情熔炉，开始价值重塑与身份加工。",
+            "en": "Participants enter the furnace for value reshaping and identity processing."
+          }
+        },
+        {
+          "title": {
+            "zh": "机械齿轮",
+            "en": "Mechanical gears"
+          },
+          "text": {
+            "zh": "系统持续拆解并重组信息，生成标准化婚恋档案。",
+            "en": "The system disassembles and reassembles information into standardised profiles."
+          }
+        },
+        {
+          "title": {
+            "zh": "婚恋档案",
+            "en": "Dating résumé"
+          },
+          "text": {
+            "zh": "加工后的自我描述被记录并用于匹配；完整展示并不等于信息真实。",
+            "en": "The processed self-description is stored for matching. A complete presentation does not guarantee authenticity."
+          }
+        }
+      ]
+    },
+    {
+      "id": "lucky-carnival",
+      "title": {
+        "zh": "幸运狂欢",
+        "en": "Lucky Carnival"
+      },
+      "paragraphs": [
+        {
+          "zh": "巨大的机械装置昼夜不停地运转，将参与者的信息送入中央系统。随着装置缓缓转动，新的配对结果不断诞生。每当匹配成功，中央爱心标志亮起，双方档案出现在两侧屏幕，在所有人的见证下完成这场充满仪式感的相遇。匹配依赖资料，同时保留偶然与运气。",
+          "en": "A giant machine continuously feeds participants’ information into the central system. Its rotation generates new pairings. When a match succeeds, the central heart lights up and profiles appear on either side. Music announces the encounter, turning matching into a public ceremony shaped by both information and chance."
+        }
+      ],
+      "points": [
+        {
+          "title": {
+            "zh": "庆典号角",
+            "en": "Celebration horn"
+          },
+          "text": {
+            "zh": "配对成功后响起庆典音乐，宣布相亲开始。",
+            "en": "Celebratory music announces a successful pairing and the start of the date."
+          }
+        },
+        {
+          "title": {
+            "zh": "幸运转奖机",
+            "en": "Matching machine"
+          },
+          "text": {
+            "zh": "机械运转与两侧档案展示共同构成匹配仪式。",
+            "en": "The moving machine and profile displays form the matching ceremony."
+          }
+        }
+      ]
+    },
+    {
+      "id": "additive-roulette",
+      "title": {
+        "zh": "情感轮盘",
+        "en": "Additive Roulette"
+      },
+      "paragraphs": [
+        {
+          "zh": "双方在交流中加入自我营销，以包装与夸张放大个人优势，争取对方的心动。情感轮盘把看不见的话术策略转化为试剂、时间与实时反馈：吸引力的提升，也伴随信息真实性的变化。",
+          "en": "In conversation, participants use self-promotion and exaggeration to amplify their strengths and attract the other person. The roulette makes these invisible strategies tangible through reagents, time and feedback: a gain in appeal can come with a change in credibility."
+        }
+      ],
+      "points": [
+        {
+          "title": {
+            "zh": "时间轮盘",
+            "en": "Time roulette"
+          },
+          "text": {
+            "zh": "象征不断流逝的择偶时间与情感机会。",
+            "en": "Represents passing time and relationship opportunities."
+          }
+        },
+        {
+          "title": {
+            "zh": "谎言试剂",
+            "en": "Lie reagents"
+          },
+          "text": {
+            "zh": "放大个人优势，同时降低信息真实性；反馈包装与营销程度。",
+            "en": "Amplifies strengths while reducing credibility, making the degree of self-promotion visible."
+          }
+        }
+      ]
+    },
+    {
+      "id": "theater-of-gaze",
+      "title": {
+        "zh": "旁观剧场",
+        "en": "Theater of Gaze"
+      },
+      "paragraphs": [
+        {
+          "zh": "关系的判断不只来自两位参与者。父母、亲友和旁观者的目光持续进入约会过程，以各自的标准评估、建议和干预。这些声音构成压力机制，也让参与者不断重新作出选择。",
+          "en": "Relationship judgement extends beyond the two participants. Parents, friends and onlookers enter the dating process with their own standards, advice and interventions. These voices form a pressure mechanism that repeatedly prompts participants to reconsider their choices."
+        }
+      ],
+      "points": [
+        {
+          "title": {
+            "zh": "观察之眼",
+            "en": "The gaze of others"
+          },
+          "text": {
+            "zh": "外界的目光持续注视着参与者，影响他们的选择判断。",
+            "en": "Outside eyes continually watch participants and influence their judgement."
+          }
+        },
+        {
+          "title": {
+            "zh": "家族审判",
+            "en": "Parental scrutiny"
+          },
+          "text": {
+            "zh": "父母依据自身标准评估对方，并持续干预关系的发展。",
+            "en": "Parents assess the potential partner against their own standards and intervene in the relationship."
+          }
+        },
+        {
+          "title": {
+            "zh": "舆论回响",
+            "en": "Voices of others"
+          },
+          "text": {
+            "zh": "亲友提供建议与评价，引导参与者重新作出选择。",
+            "en": "Friends and relatives offer opinions that redirect participants’ choices."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dating-paradise",
+      "title": {
+        "zh": "约会乐园",
+        "en": "Dating Paradise"
+      },
+      "paragraphs": [
+        {
+          "zh": "心动约会、恋爱博弈与爱情旋转组成最后的约会空间。两位参与者在反复交谈与试探中逐渐接近，家庭与亲友却仍关注着约会进程。当人们沉浸于浪漫幻想与自我包装，也可能逐渐失去辨别真实与表演关系的能力。",
+          "en": "Face-to-face dates, relationship games and rotating tea cups form the final space. Participants get closer through repeated conversations and testing, while family and friends continue watching. Immersion in romantic fantasy and persona packaging can gradually obscure the distinction between a real relationship and a performance."
+        }
+      ],
+      "points": [
+        {
+          "title": {
+            "zh": "心动约会",
+            "en": "Face-to-face dating"
+          },
+          "text": {
+            "zh": "在面对面交流中继续确认彼此的期待与信息。",
+            "en": "Continue exploring expectations and information through face-to-face conversation."
+          }
+        },
+        {
+          "title": {
+            "zh": "恋爱博弈",
+            "en": "The love game"
+          },
+          "text": {
+            "zh": "在互动与策略中测试对方的想法。",
+            "en": "Test the other person’s intentions through interaction and strategy."
+          }
+        },
+        {
+          "title": {
+            "zh": "爱情旋转",
+            "en": "The rotating tea party"
+          },
+          "text": {
+            "zh": "浪漫幻想与持续的相互试探形成关系结果。",
+            "en": "Romantic fantasy and continued testing shape the relationship outcome."
+          }
+        }
+      ]
+    },
+    {
+      "id": "concept-film",
+      "title": {
+        "zh": "概念影片",
+        "en": "Concept Film"
+      },
+      "paragraphs": [
+        {
+          "zh": "概念影片串联六个核心体验场景，通过人物行为、系统反馈与空间切换，呈现玩家从进入相亲市场、建立人物档案、筛选对象，到验证信息、接受外部评价并形成关系结果的体验路径。影片将交互机制、用户选择与叙事世界观整合为连续的游戏体验。",
+          "en": "The concept film connects all six spaces through character actions, system feedback and spatial transitions. It follows entry into the matchmaking market, profile creation, partner selection, information verification, outside evaluation and relationship outcomes, integrating the mechanisms and fictional world into one continuous experience."
+        }
+      ]
+    }
+  ]
+}
